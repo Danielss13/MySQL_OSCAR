@@ -23,8 +23,7 @@ R: ELA NUNCA GANHOU! <code>(SELECT * FROM `oscar` WHERE name LIKE '%Amy Adams%')
 
 Alguém já ganhou um Oscar e tem o seu primeiro nome?
 
-R: NÃO! <code>(SELECT * FROM `oscar` WHERE name LIKE '%João%')</code>
-
+R: NÃO! <code>(SELECT * FROM `oscar` WHERE name LIKE '%Daniel')</code>
 ##
 
 Toy Story 3 ganhou um Oscar em quais anos?
